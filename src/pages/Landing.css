@@ -1,0 +1,25 @@
+#bg1 {
+    background-image: url("https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/6Kmk7QsyyO5hFCmDnjHc9n/7b6dda718f6f58933836e07bbcdbe5fc/iStock-1020489164.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.inner {
+    background-color: rgba(117, 117, 117, 0.5);
+}
+
+#tools {
+    height: 500px;
+}
+
+#bg2 {
+    background-image: url("https://blog.glassdoor.com/site-us/wp-content/uploads/sites/2/iStock-853911358.jpg?w=900");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

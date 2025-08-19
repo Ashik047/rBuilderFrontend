@@ -1,0 +1,1 @@
+export const serverURL = "https://rbuilderbackend-aug.onrender.com"  // there must be no backslash at the end of the url
